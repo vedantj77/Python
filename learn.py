@@ -1,3 +1,6 @@
-s="abracadabra"
-for i in range(len(s)):
-    print(i)
+import random
+
+choices = ["rock","paper", "scissors"]
+
+computer = random.choices(choices)
+
