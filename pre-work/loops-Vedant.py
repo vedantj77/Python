@@ -22,7 +22,7 @@ while j>=1:
 #we can use this when we want to print all values from the list
 x = ['navin',33,44.5]
 
-for i in x:
+for i in range(len(x)):
     print(i)
 
 

@@ -46,6 +46,6 @@ def eod(num):
         print('even')
     else:
         print('odd')
-
+        
 x = int(input('Enter a number : '))
 eod(x)

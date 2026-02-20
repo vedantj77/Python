@@ -19,7 +19,7 @@ a = 5.6
 b = int(a)
 print(type(a))
 print(type(b))
-
+print(b)
 #complex datatype in python 
 x=7
 y=8
@@ -32,7 +32,7 @@ print(list(range(2,10,2)))
 
 #multiline string 
 s="""hello
-bocha
+bocha       
 locha """
 print(s[0])
 print(s)
